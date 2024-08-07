@@ -11,5 +11,6 @@
 * **이시현** [https://github.com/sihyun96](https://github.com/sihyun96)
 * **윤가영 : https://github.com/YOUNG2YOON**
 * **이유나** : [https://github.com/yunalee91]
-
+* **권도희** [https://github.com/doheeeehob](https://github.com/doheeeehob)
 **이지우: [https://github.com/jiwoo909](https://github.com/jiwoo909)
+
